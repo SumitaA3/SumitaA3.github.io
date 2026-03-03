@@ -13,6 +13,9 @@ main:
 
   - title: "Talks"
     url: /talks/    
+    
+  - title: "note"
+    url: https://note.com/sumi_mice    
 
   - title: "Teaching"
     url: /teaching/    
