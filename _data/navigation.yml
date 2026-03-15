@@ -17,6 +17,9 @@ main:
   - title: "note"
     url: https://note.com/sumi_mice    
 
+  - title: "qiita"
+    url: https://qiita.com/sumi59  
+
   - title: "Teaching"
     url: /teaching/    
     
