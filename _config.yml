@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "https://SumitaA3.github.io/images/profile.jpg"
   name             : "Ayuki Sumita"
   pronouns         : # example: "he/him"  
   bio              : "東京大学薬学研究科薬品作用学教室"
