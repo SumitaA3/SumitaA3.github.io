@@ -20,12 +20,6 @@ author_profile: true
 その後、よりウェットな研究を行いたく、東京大学薬学研究科薬品作用学研究室を志し、2026年4月に同研究室に進学し、今に至る。  
 
 
-<div style="display:flex; gap:20px; align-items:flex-start;">
-
-<img src="/images/profile.jpg" width="180">
-
-<div>
-
 **1970年8月16日** 静岡県藤枝市生まれ  
 **1998年3月30日** 東京大学大学院薬学系研究科 博士取得  
 **1998年4月1日** 東京大学 薬学部 助手  
