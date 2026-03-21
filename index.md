@@ -3,19 +3,22 @@ layout: single
 author_profile: true
 ---
 ## About me
-<div style="display:flex; gap:20px; align-items:flex-start;">
+<div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap;">
 
-<img src="/images/profile.jpg" width="180">
+  <img src="/images/profile.jpg" width="180">
 
-<div>
-**2001年8月13日** 北海道旭川市生まれ  
-**2020年3月30日** 北海道立札幌北高等学校卒業  
-**2020年4月1日** 横浜国立大学理工学部数物電子情報系学科入学  
-**2022年3月30日** 同大学退学  
-**2022年4月1日** 京都大学工学部電気電子工学科入学  
-**2026年3月30日** 同大学卒業  
-**2026年4月1日** 東京大学薬学研究科入学 
-</div>
+  <div>
+    <ul>
+      <li><strong>2001年8月13日</strong> 北海道旭川市生まれ</li>
+      <li><strong>2020年3月30日</strong> 北海道立札幌北高等学校卒業</li>
+      <li><strong>2020年4月1日</strong> 横浜国立大学 理工学部 数物電子情報系学科 入学</li>
+      <li><strong>2022年3月30日</strong> 同大学 退学</li>
+      <li><strong>2022年4月1日</strong> 京都大学 工学部 電気電子工学科 入学</li>
+      <li><strong>2026年3月30日</strong> 同大学 卒業</li>
+      <li><strong>2026年4月1日</strong> 東京大学 薬学研究科 入学</li>
+    </ul>
+  </div>
+
 </div>
 
 ---
