@@ -18,6 +18,38 @@ author_profile: true
 そして、2025年4月より生体機能工学研究室に所属。輪講にてカルマンフィルタや、HMM等機械学習の原理の学習、そしてMRIなどの生体機能計測の学習を行う。同年後期には、MRS(磁気共鳴分光法)にて岩手にて行われた対外研究会に参加する[※](https://ieej.bookpark.ne.jp/products/ieej-20251215x14301)傍ら、神経科学を独学した。
 
 その後、よりウェットな研究を行いたく、東京大学薬学研究科薬品作用学研究室を志し、2026年4月に同研究室に進学し、今に至る。  
+
+---
+layout: single
+author_profile: true
+permalink: /
+---
+
+<div style="display:flex; gap:20px; align-items:flex-start;">
+
+<img src="/images/profile.jpg" width="180">
+
+<div>
+
+**1970年8月16日** 静岡県藤枝市生まれ  
+**1998年3月30日** 東京大学大学院薬学系研究科 博士取得  
+**1998年4月1日** 東京大学 薬学部 助手  
+**2002年〜2005年** コロンビア大学 客員研究員  
+**2007年** 東京大学 准教授  
+**2014年** 東京大学 教授  
+
+</div>
+</div>
+
+
+---
+
+## 趣味
+
+| 分野 | 内容 |
+|------|------|
+| クラシック音楽 | モーツァルト、ベートーヴェンなど |
+| その他 | ピアノ、コンサート鑑賞 |
 # Research Interests
 - Brain Machine Interface
 - Neural Signal Processing
