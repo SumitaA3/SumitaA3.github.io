@@ -19,11 +19,6 @@ author_profile: true
 
 その後、よりウェットな研究を行いたく、東京大学薬学研究科薬品作用学研究室を志し、2026年4月に同研究室に進学し、今に至る。  
 
----
-layout: single
-author_profile: true
-permalink: /
----
 
 <div style="display:flex; gap:20px; align-items:flex-start;">
 
