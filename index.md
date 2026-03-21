@@ -3,6 +3,11 @@ layout: single
 author_profile: true
 ---
 ## About me
+<div style="display:flex; gap:20px; align-items:flex-start;">
+
+<img src="/images/profile.jpg" width="180">
+
+<div>
 **2001年8月13日** 北海道旭川市生まれ  
 **2020年3月30日** 北海道立札幌北高等学校卒業  
 **2020年4月1日** 横浜国立大学理工学部数物電子情報系学科入学  
@@ -29,8 +34,7 @@ author_profile: true
 その後、よりウェットな研究を行いたく、東京大学薬学研究科薬品作用学研究室を志し、2026年4月に同研究室に進学し、今に至る。  
 
 
-</div>
-</div>
+
 
 
 ---
